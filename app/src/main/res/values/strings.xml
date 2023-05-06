@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">hw_1_m3</string>
+    <string name="name">Name: </string>
+    <string name="surname">Surname: </string>
+    <string name="age">Age: </string>
+    <string name="back">Back</string>
+    <string name="send">Send</string>
+</resources>
